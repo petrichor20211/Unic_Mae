@@ -42,7 +42,7 @@ MaskedAutoencoders(MAE)是何凯明教授在21年末提出的一种无监督学�
 
 - 使用过滤算法
 
-![image-20240409171648799](C:\Users\lenovo\AppData\Roaming\Typora\typora-user-images\image-20240409171648799.png)
+![image-20240409171648799](image-20240409171648799.png)
 
 ## 其他下游任务的过滤算法
 
