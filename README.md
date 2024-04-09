@@ -20,11 +20,11 @@ MaskedAutoencoders(MAE)是何凯明教授在21年末提出的一种无监督学�
 
 - 小尺度特征:物体纹理,物体边缘->由opencv库里的canny算法实现
 
-![image-20240409163718206](D:\Torch\mae-main\data\small_margin.jpg)
+![image-20240409163718206](small_margin.jpg)
 
 - 大尺度特征:主要是物体轮廓->由轻量语义分割模型实现(后期可用其他费时更少的算法替代)
 
-  ![image-20240409163718206](D:\Torch\mae-main\data\large_margin.jpg)
+  ![image-20240409163718206](large_margin.jpg)
 
 这二者之间的比重由超参α决定.
 
